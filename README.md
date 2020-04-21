@@ -1,2 +1,19 @@
 # vj-downloadable-link
-Vanilla JavaScript Web Component for Downloadable Link
+
+> To generate downloadable link.
+
+## Install
+
+```
+ npm install vj-downloadable-link -S
+```
+
+## Usage
+```html
+<vj-downloadable-link></vj-downloadable-link>
+```
+
+## Attributes
+
+## License
+MIT &copy; [Srinivasan K K](https://srinivasankk.com)
